@@ -10,5 +10,7 @@ Algoritma dijkstra adalah algoritma greedy yang digunakan untuk menemukan shorte
 
 Penelitian ini berfokus pada evaluasi efektivitas algoritma Dijkstra dalam menentukan rute optimal di area bencana. Efektivitas diukur berdasarkan kemampuan algoritma untuk mencapai target melalui rute terpendek dalam beberapa kali percobaan. Penelitian ini akan fokus pada dua hal utama: (1) Konsistensi keberhasilan Dijkstra dalam mencapai target melalui jalur optimal, dan (2) efisiensi algoritma dalam hal running time.
 
-# Code
-https://colab.research.google.com/drive/1PRmAy_E_WVL6GVTNZlSndcaoZJrF4EzE?usp=sharing
+# File Explanation
+- DAA Runtime : Menghitung runtime dari algoritma yang kami pakai
+- Graph Maker : Membuat graph untuk pengujian
+- Research : Main file
