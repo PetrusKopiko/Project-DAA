@@ -9,3 +9,8 @@ Namun, navigasi di area dengan banyak hambatan, seperti reruntuhan, menjadi tant
 Algoritma dijkstra adalah algoritma greedy yang digunakan untuk menemukan shortest path dalam graph. Algoritma ini bekerja dengan menghitung dari titik awal ke titik terdekat kemudian ke titik kedua, dan seterusnya.
 
 Penelitian ini berfokus pada evaluasi efektivitas algoritma Dijkstra dalam menentukan rute optimal di area bencana. Efektivitas diukur berdasarkan kemampuan algoritma untuk mencapai target melalui rute terpendek dalam beberapa kali percobaan. Penelitian ini akan fokus pada dua hal utama: (1) Konsistensi keberhasilan Dijkstra dalam mencapai target melalui jalur optimal, dan (2) efisiensi algoritma dalam hal running time.
+
+# Penjelasan isi file
+- DAA runtime : Menghitung runtime pengujian algoritma
+- Graph Maker : membuat graph untuk pengujian
+- Research : Main file (Dijkstra for maze solver)
