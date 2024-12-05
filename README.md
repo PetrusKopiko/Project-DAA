@@ -10,10 +10,10 @@ Data Pemrosesan: Menggunakan citra satelit untuk memetakan wilayah terdampak dan
 Implementasi Algoritma: Algoritma Dijkstra diterapkan untuk menentukan jalur terpendek dengan pendekatan greedy.
 Evaluasi dan Validasi: Menganalisis tingkat keberhasilan algoritma dalam menghasilkan jalur evakuasi optimal pada dataset dengan kompleksitas yang bervariasi.
 Visualisasi: Menampilkan rute evakuasi pada peta virtual.
-Teknologi yang Digunakan
-Python (Library: Pillow, NetworkX)
-Google Earth untuk pengumpulan data
-Representasi graf berbobot untuk simulasi
+
+## Teknologi yang Digunakan
+- Python (Library: Pillow, NetworkX, matplotlib, cv2, numpy)
+- Google Earth untuk pengumpulan data
 
 ## Hasil
 Rata-rata tingkat keberhasilan mencapai 79% untuk menemukan jalur terpendek.
@@ -26,3 +26,4 @@ Proyek ini dapat menjadi referensi dalam pengembangan sistem evakuasi berbasis t
 - Dijkstra for Maze.ipynb : Main file untuk research ini
 - Convert.py : Untuk meng-convert file gambar jadi grayscale
 - Testing : Hasil testing running time dan rat eof growth
+- Dataset : Berupa 40 gambar untuk pengujian
